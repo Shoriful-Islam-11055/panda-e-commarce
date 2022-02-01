@@ -1,0 +1,14 @@
+/* Title font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.slide-bg-color{
+    background-color: #feeae9;
+}
+.slide-redius{
+    border-radius: 15px;
+}
+
+.title-font{
+    font-family: 'Bebas Neue', cursive;
+}
